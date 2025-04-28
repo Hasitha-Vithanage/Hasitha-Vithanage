@@ -12,7 +12,8 @@ I am a detail-oriented and proactive individual who enjoys collaborating with ot
 
 ## 🌟 Projects  
 Here are some of my notable projects:  
-- **[Gym Management System](https://github.com/Hasitha-Vithanage/gym-management-backend)** – A comprehensive system built with Angular and Spring Boot.
+- **[Gym Management System](https://github.com/Hasitha-Vithanage/gym-management-backend)** – A full-stack web application for managing gym memberships, trainer schedules, equipment inventory, and workout plans. Built with Angular, Spring Boot, and MySQL.
+- **[Personal Portfolio Website](https://github.com/Hasitha-Vithanage/hasitha-portfolio)** –  A modern and responsive portfolio website built with React and Tailwind CSS.
 
 ## 📊 My Stats  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasitha-Vithanage&theme=material-palenight&hide=Jupyter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
